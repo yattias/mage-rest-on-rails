@@ -1,6 +1,6 @@
 magento:
-  oauth_callback: http://localhost:9000/mage/oauth_callback
-  host: http://kobe.viyet.com
-  consumer_key: n1wlwbfjr6zoifwkoos9ipajowsoa2ub
-  consumer_secret: 20hdtjx1eqo9a1e2dwnbj97rs2urbh3f
+  oauth_callback: http://your_rails_host/mage/oauth_callback
+  host: http://your_magento_host
+  consumer_key: your_consumer_key_from_magento_admin
+  consumer_secret: your_consumer_secret_from_magento_admin
 
